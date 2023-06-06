@@ -1,0 +1,8 @@
+langchain
+openai
+streamlit
+urllib3
+google-search-results
+requests
+pandas
+fastapi
