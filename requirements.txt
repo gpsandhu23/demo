@@ -1,5 +1,4 @@
 openai
-urllib3
 requests
 pandas
 fastapi
